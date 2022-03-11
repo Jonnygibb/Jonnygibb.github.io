@@ -1,0 +1,39 @@
+html {
+    background-color: antiquewhite;
+}
+section {
+    margin: 5px auto;
+    border: 2px solid black;
+    width: 80%;
+}
+h1 {
+    text-align: center;
+}
+div {
+    text-align: center;
+    display: inline-block;
+    width: 33%;
+    margin-bottom: 5px;
+}
+.main-colour {
+    background-color: #019875;
+}
+.secondary-colour {
+    background-color: #596E5C;
+}
+.third-colour {
+    background-color: #002408;
+    color: whitesmoke;
+}
+.accent-colour {
+    background-color: #B8293D;
+}
+.jetbrains {
+    font-family: 'JetBrains Mono', monospace;
+}
+.source-code {
+    font-family: 'Source Code Pro', monospace;
+}
+.jetbrains, .sourcecode {
+    width: 50%;
+}
